@@ -13,3 +13,8 @@ The main contributions of this paper can be summarized as:
 4. Building and training different CNN architectures with variable number of parallel convolution layers.
 
 
+### To Do
+
+Data split description
+Code for data split
+
