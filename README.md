@@ -15,6 +15,5 @@ The main contributions of this paper can be summarized as:
 
 ### To Do
 
-Data split description
-Code for data split
+Data split description and code.
 
